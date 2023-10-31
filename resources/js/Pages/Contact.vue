@@ -5,6 +5,7 @@
       <img
         src="https://discord.c99.nl/widget/theme-1/384653287544193024.png"
         alt="Ini contact page"
+        class="sm:h-32"
       />
     </a>
   </div>

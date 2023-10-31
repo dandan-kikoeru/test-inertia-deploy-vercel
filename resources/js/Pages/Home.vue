@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center">
-    <p class="w-1/3 text-center text-xl">
+    <p class="w-80 sm:w-[36rem] text-center text-xl">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       cupiditate ab iure consectetur maiores impedit aliquam sint inventore ex
       natus esse laudantium incidunt magnam, illo ipsa magni quibusdam. Dolorum,
