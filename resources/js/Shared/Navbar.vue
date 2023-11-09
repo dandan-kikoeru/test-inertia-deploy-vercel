@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed w-screen z-50">
+  <div class="sticky top-0 z-10">
     <div class="navbar bg-base-100" :style="{ '--tw-bg-opacity': navOpacity }">
       <div class="flex-1">
         <Link href="/" class="btn btn-ghost normal-case text-xl">Home</Link>

@@ -1,4 +1,5 @@
 <template>
+  <Head title="Home" />
   <div class="flex justify-center">
     <p class="w-80 sm:w-[36rem] text-center text-xl">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
